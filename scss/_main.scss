@@ -1,10 +1,10 @@
 
 // global color variables
 
-$main-color:     #86dcff; // #6AC045;
-$button:         #00a3e6;
-$buttn-hover:    #1fbeff;
-$button-shadow:  #00719f;
+$main-color:     #c1e277; // #6AC045;
+$button:         #8ca624;
+$buttn-hover:    #9fbd26;
+$button-shadow:  #5f7312;
 
 
 body {
@@ -32,7 +32,7 @@ body {
 }
 
 .logo {
-  width: 128px;
+  width: 132px;
 }
 
 .img-left {
@@ -206,7 +206,7 @@ ul.offer-box li.leading {
 .top-bar .pure-button:hover {
   border: 2px solid $buttn-hover;
   background: $buttn-hover;
-  color: #000;
+  color: #fff;
 }
 
 .top-bar a.pure-button {
